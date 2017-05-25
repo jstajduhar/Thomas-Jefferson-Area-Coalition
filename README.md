@@ -1,0 +1,2 @@
+# Thomas-Jefferson-Area-Coalition
+In order to help connect those in need to locally available resources, TJACH regularly distributes a printed “street sheet” to its clients listing vital programs (food, shelter, clothing) that are currently available in the city. How might we use technology to distribute the street sheet more widely, ensure accuracy of its information, and allow for its content to be easily updated?
