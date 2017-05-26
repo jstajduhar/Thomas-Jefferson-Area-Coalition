@@ -1,9 +1,6 @@
 # Partner
 Thomas-Jefferson-Area-Coalition
 
-### Stakeholder
-[Enter contact information]
-
 # Problem
 In order to help connect those in need to locally available resources, TJACH regularly distributes a printed “street sheet” to its clients listing vital programs (food, shelter, clothing) that are currently available in the city.
 
