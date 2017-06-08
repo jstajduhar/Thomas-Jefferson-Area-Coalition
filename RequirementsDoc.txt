@@ -1,0 +1,29 @@
+
+ - The administrator shall be able to enter services into the data store.
+	- Services include meals, shelter, medical services, events. Several more need to be added from the current street sheet.
+	- All services except event will be updated infrequently.
+	- Services should have a boolean to inidcate whether or not it should have a reference on the display map.
+	- Design Decision: Do we want 1 general Service object with a super-set of potential fields where most are optional or do we want objects for specific service that only have the necessary fields for that service?
+   
+ - The administrator shall be able to edit existing Services.
+    - This requirement will necessitate the administrator being able to display all services and select a single service.
+	- Design Decision: Do we need to enable searching/filtering on existing services? I would say no because there aren't that many so we should just be able to display them all, but this is a good question for the users.
+ 
+ - The administrator shall be able to delete existing Services.
+ 
+ - The site shall include a display that lists all services with pertinent details.
+	- Details should match the current stree sheet at a minimum.
+	- The display should include a Charlottesville map with references to Services.
+ 
+ - The site must produce a 2 page display for printing
+	- Display should initially be based on the current street sheet.
+	- Events do not need to go into the first cut at this display.
+	- Design Challenge: How do we make sure that additions/changes to Services list do not make this display go outside of 2 pages?
+	- Design Decision: Should we use some sort of reporting too to build a PDF or Word document from the data that can be printed or just create and HTML page?
+ 
+ - What are additional capabilities that could be integrated in with the display?
+	- More details about the event?
+	- Links to sites for other organization?
+	- Links to directions/maps?
+	
+ 
